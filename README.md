@@ -18,6 +18,9 @@ json-server --watch rest-api/events.json
 ```
 
 Em seguida, vá na pasta front-end e execute:
+```
+yarn
+```
 
 ```
 yarn start
