@@ -29,3 +29,4 @@ yarn start
 - [Axios](https://github.com/axios/axios): Para a comunicação com a API.
 - [SCSS](https://sass-lang.com/documentation/syntax): Para a estilização, + Padrão BEM para os identificadores.
 - Responsividade: Utilização de media queries + Unidades de viewport: vh, vw, %, rem.
+
